@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Henri Sergent</title>
+    <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
+    <link href="https://hls1138.github.io/site" />
+    <updated>2018-08-28T11:38:28+02:00</updated>
+    <author>
+        <name>Henri Sergent</name>
+    </author>
+    <id>https://hls1138.github.io/site</id>
+
+    <entry>
+        <title>Publications </title>
+        <author>
+            <name>Henri Sergent</name>
+        </author>
+        <link href="https://hls1138.github.io/site/Publications/"/>
+        <id>https://hls1138.github.io/site/Publications/</id>
+
+        <updated>2018-08-11T18:14:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
+                    En CoursDesfriches-Doria; H. Sergent; F. Tran; Y. Haettich; J. Borel. (2018). What is Digital Humanities' identity in interdisciplinairy practices ? An experiment with digital tools for visualizing the francophone DH network. Digital Tools &amp; Uses Congress; 5th Edition of the International Conférence Digital Frontiers, "Digital&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
+                <h2>En Cours</h2>
+<ul>
+<li>Desfriches-Doria; H. Sergent; F. Tran; Y. Haettich; J. Borel. (2018). <em>What is Digital Humanities' identity in interdisciplinairy practices ? An experiment with digital tools for visualizing the francophone DH network.</em> Digital Tools &amp; Uses Congress; 5th Edition of the International Conférence Digital Frontiers, "Digital influences, from communication to propaganda"; MSH Paris Nord, Paris, 3-5 octobre 2018. (En cours d'évaluation). </li>
+</ul>
+<h2>Non publiées </h2>
+<ul>
+<li>A. Belande; K. Cheung; H.Sergent. (2018). <em>VeloViz: Representing the traffic load between Vélo'v Stations</em>. Cours visualisation interactive de données, Université Lyon 1, Master 2, 2017-2018. (<a href="https://github.com/BelandeCheungSergent/veloViz/blob/master/rendu/Rendu-final-VeloViz.pdf" title="VéloViz">pdf link</a>)</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Résumé / CV </title>
+        <author>
+            <name>Henri Sergent</name>
+        </author>
+        <link href="https://hls1138.github.io/site/resume-cv/"/>
+        <id>https://hls1138.github.io/site/resume-cv/</id>
+
+        <updated>2018-08-11T17:28:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hls1138.github.io/site/media/posts/2/" alt="" />
+                     Formation2017-2018 : Master 2 Architecture de l'Information, + Master 2 Humanités Numériques, École Normale Supérieure de Lyon. 2016-2017 : Master 1 Architecture de l'Information, École Normale Supérieure de Lyon.2015-2016 : LP Métiers du Multimédia et d’Internet. Conception, rédaction et réalisation web, Université Paris 13.2014-2015 : DUT&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hls1138.github.io/site/media/posts/2/" alt="" />
+                <h2> <strong>Formation</strong></h2>
+<ul>
+<li><strong>2017-2018</strong> : Master 2 Architecture de l'Information, + Master 2 Humanités Numériques, École Normale Supérieure de Lyon.</li>
+</ul>
+<ul>
+<li> <strong>2016-2017</strong> : Master 1 Architecture de l'Information, École Normale Supérieure de Lyon.</li>
+</ul>
+<ul>
+<li><strong>2015-2016</strong> : LP Métiers du Multimédia et d’Internet. Conception, rédaction et réalisation web, Université Paris 13.</li>
+</ul>
+<ul>
+<li><strong>2014-2015</strong> : DUT INO Information Numérique dans les Organisations à L’Université Bordeaux Montaigne.</li>
+</ul>
+<ul>
+<li><strong>2013-2014</strong> : 2ème année à l’Institut d’Études Politiques de Bordeaux.</li>
+</ul>
+<ul>
+<li><strong>2012-2013</strong> : Année de mobilité académique au sein du département de sciences politiques de l’Université St Joseph de Beyrouth (Liban).</li>
+</ul>
+<ul>
+<li><strong>2011-2012</strong> : 1re année à l’Institut d’Études Politiques de Bordeaux.</li>
+</ul>
+<ul>
+<li><strong>2010-2011</strong> : Classe Préparatoire Littéraire au Lycée Camille Juillan CPGE A/L (Bordeaux), + L1 de Philosophie à l’Université Bordeaux III.</li>
+</ul>
+<h2><strong>Langues</strong></h2>
+<ul>
+<li>Anglais, (C2, Score CAE :205/210)</li>
+<li>Espagnol (B2) </li>
+</ul>
+<h2><strong>Logiciels et outils numériques</strong></h2>
+<br>
+<ul>
+<li><strong>Suite logicielle Office</strong> : Word, Powerpoint, Excel, Access,</li>
+<li><strong>Suite logicielle Adobe</strong> : Photoshop, Dreamweaver, Lightroom, Experience Design</li>
+<li><strong>Documentation</strong> : PMB, Zotero, Diigo, JLB, Netvibes, Maltego CE, Digimind, AMI software, IFTT, Hootsuite, GitHub, Slack, Trello, OpenRefine, Google Data Studio.</li>
+<li><strong>Bases de données</strong> : mySQL, Neo4J, PHP, WAMP, Modalisa.</li>
+<li><strong>Outils et langages Web</strong> : CMS Joomla, Drupal, Wordpress, Bootstrap, HTML5, XML, CSS3, Javascript, Dublin Core, Web sémantique, RDF, TEI-XML, EAD.</li>
+<li><strong>Visualisation</strong> : Gephi ,GraphCommons, D3.js Tableau.</li>
+<li><strong>Outils de Design UX</strong> : Balsamiq, InVision, Marvel, Figma, Sketch, AB Tasty, Hotjar, Google Analytics, Piwik.</li>
+<li><strong>Data mining</strong> : Python, Sklearn, matplotlib, gensim, nltk, TXM.</li>
+</ul>
+<h2><strong>Expériences professionnelles</strong></h2>
+<ul>
+<li><strong>Depuis Juin 2018 </strong>: Ingénieur d'études contractuel au CNRS sur le Projet ANR HyperOtlet.  </li>
+</ul>
+<ul>
+<li><strong>Septembre 2015-septembre 2016</strong> : Apprenti en conception/rédaction web dans l’unité de recherche InVisu CNRS/INHA. Refonte de site, rédaction de contenus, veille, community management, mise en place et paramétrage d’un moteur de recherche Apache SolR moissonnant des corpus dispersés selon le protocole OAI-PMH.</li>
+</ul>
+<ul>
+<li><strong>Avril-juillet 2015</strong> : Stage Data Analyst chez WineDataSystem. Audit du système documentaire, gestion de base de données et de l’Information-Produit, indexation et fiabilisation du référentiel, implémentation d’un outil de Master Data Management, migration d’une base SQL vers Neo4j, veille sectorielle.</li>
+</ul>
+<ul>
+<li><strong>Juin-Août</strong> <strong>2013 et 2014</strong> : Ouvrier viticole au château Haut-Nouchet.</li>
+</ul>
+<ul>
+<li><strong>Juillet-août 2011</strong> : Moniteur de français/anglais au collège de Zahlé (Liban)</li>
+</ul>
+<p>Vous pouvez également consulter <a href="https://www.linkedin.com/in/henri-sergent-917301129/" target="_blank" rel="noopener noreferrer">mon profil LinkedIn </a>pour plus de détails. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About / A propos </title>
+        <author>
+            <name>Henri Sergent</name>
+        </author>
+        <link href="https://hls1138.github.io/site/about-a-propos/"/>
+        <id>https://hls1138.github.io/site/about-a-propos/</id>
+
+        <updated>2018-08-19T21:30:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hls1138.github.io/site/media/posts/1/" alt="" />
+                    Hello, I'm Henri Sergent and I'm currently an Information Architecture and Digital Humanities student at ENS Lyon. I'm interested in User eXperience design, information science, datavisualisation and semantic web technologies applied to research in social sciences. I think organizing information and providing effective acces to what&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hls1138.github.io/site/media/posts/1/" alt="" />
+                <p>Hello, I'm Henri Sergent and I'm currently an <strong>Information Architecture</strong> and <strong>Digital Humanities </strong>student at ENS Lyon. I'm interested in User eXperience design, information science, datavisualisation and semantic web technologies applied to research in social sciences. I think organizing information and providing effective acces to what matters to the users is necessary to avoid information overflow in our data era. Questionning current online designs and providing guidiance to design useful shared representation is my goal. </p>
+<p><span style="font-weight: 400;">During the course of my degree in humanities and political science back in 2012, I acquired an understanding of the capital role played by digital information and data management in our society. My subsequent studies focused on <a href="http://www.infonumbordeaux.fr/">digital information in organisations at IUT Montaigne</a> and allowed me to deepen my knowledge of information management and web tools. The following year, I did <a href="http://www.iut-bobigny.univ-paris13.fr/formations/metiers-du-multimedia-et-de-l-internet.html">Multimedia &amp; Internet bachelor courses at Paris 13 University</a> in the field of multimedia and the Internet while being a web apprentice in <a href="https://invisu.inha.fr/fr/index.html" target="_blank" rel="noopener noreferrer">CNRS InVisu research unit</a>. This experience led me to pursue studies in <a href="http://archinfo.universite-lyon.fr/bienvenue-sur-le-site-du-master-architecture-de-l-information-312469.kjsp">Information architecture in Lyon</a> to improve my skills in content organisation and web technologies and acquire new ones in user research and experience, data mining and data visualisation to learn how to communicate meaningful insights in a relevant way. The project-based curriculum of my master has allowed to participate in different design projects, work with different groups and learn different methods to carry out user research. </span></p>
+<p>I'm currently working at CNRS as <em>ingénieur d'études</em> in the ANR-funded <a href="https://hyperotlet.hypotheses.org/">project HyperOtlet</a>. </p>
+<p>You can read my <a href="#INTERNAL_LINK#/post/2">Résumé</a> here.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
