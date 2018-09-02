@@ -3,12 +3,24 @@
     <title>Henri Sergent</title>
     <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
     <link href="https://hls1138.github.io/site" />
-    <updated>2018-08-28T11:38:28+02:00</updated>
+    <updated>2018-09-02T17:03:49+02:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
     <id>https://hls1138.github.io/site</id>
 
+    <entry>
+        <title>Cartographie des controverses : Parcoursup </title>
+        <author>
+            <name>Henri Sergent</name>
+        </author>
+        <link href="https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/"/>
+        <id>https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/</id>
+
+        <updated>2018-09-02T17:03:29+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Publications </title>
         <author>

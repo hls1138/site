@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/",
+            "url": "https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/",
+            "title": "Cartographie des controverses : Parcoursup ",
+            "image": "https://hls1138.github.io/site/media/posts/4/",
+            "author": {
+                "name": "Henri Sergent"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-02T17:03:29+02:00",
+            "date_modified": "2018-09-02T17:03:29+02:00"
+        },
+        {
             "id": "https://hls1138.github.io/site/Publications/",
             "url": "https://hls1138.github.io/site/Publications/",
             "title": "Publications ",
