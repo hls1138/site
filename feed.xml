@@ -3,7 +3,7 @@
     <title>Henri Sergent</title>
     <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
     <link href="https://hls1138.github.io/site" />
-    <updated>2018-09-02T17:12:20+02:00</updated>
+    <updated>2018-09-03T10:42:53+02:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
@@ -17,9 +17,97 @@
         <link href="https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/"/>
         <id>https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/</id>
 
-        <updated>2018-09-02T17:03:29+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2018-09-03T10:42:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hls1138.github.io/site/media/posts/4/" alt="" />
+                    Constitution du corpusLa méthodologie pour constituer un corpus de tweets exploitables à été collecter les tweets identifiés par le mot-dièse #Parcoursup à partir du 14 mai jusqu’en septembre en utilisant Twarc (une librairie Python dédiée à l'interaction avec Twitter) et l’API Search de Twittter qui&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hls1138.github.io/site/media/posts/4/" alt="" />
+                <h2>Constitution du corpus</h2>
+<p>La méthodologie pour constituer un corpus de tweets exploitables à été collecter les tweets identifiés par le mot-dièse <u><a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23ParcoursSup&amp;src=tyah&amp;lang=en">#Parcoursup</a></u> à partir du 14 mai jusqu’en septembre en utilisant <u><a href="https://github.com/DocNow/twarc">Twarc </a></u>(une librairie Python dédiée à l'interaction avec Twitter) et l’<u><a href="https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets.html">API <em>Search</em></a></u> de Twittter qui permet d’accéder aux tweets et aux métadonnées liées sur la plateforme (l’API ne fournit pas l’intégralité des tweets publiés, elle est régie par des critères propres à Twitter et non connus).</p>
+<p><code>pip install twarc</code><br><code>from twarc import Twarc</code><br><code>t = Twarc (consumer_key, consumer_secret, access_token, access_token_secret)</code><br><code>twarc filter #Parcoursup AND #Parcoursup &gt; stream. jsonl</code><br><code>% utils/network.py --users tweets. jsonl tweets.gexf</code></p>
+<p><code></code><code></code></p>
+<p>Les tweets (mais aussi les <em>retweet</em>s, réponses mentions) ainsi récoltés au format. json (<em>Javascript Object Notation</em>) peuvent être également exportés au format .csv (<em>comma-separated values</em> texte séparé par des virgules) pour plus de lisibilité et facilité de réutilisation avec : </p>
+<p><code>--output=csv</code></p>
+<p>Le fichier obtenu est structuré sous la forme :</p>
+<table>
+<tbody>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>id_str</strong></td>
+<td style="height: 47px;">l’identifiant du tweet</td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>from_user </strong></td>
+<td style="height: 47px;">nom de l’utilisateur</td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>text </strong></td>
+<td style="height: 47px;">le contenu du tweet</td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>created_at/time </strong></td>
+<td style="height: 47px;">la date de création du Tweet </td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>geo coordinates </strong></td>
+<td style="height: 47px;">les coordonnées GPS si renseigné </td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>user_lang </strong></td>
+<td style="height: 47px;">la langue du client Twitter de l’auteur du tweet</td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>in_reply_to_user_id_str </strong></td>
+<td style="height: 47px;">L’identifiant de l’utilisateur auquel est adressé le tweet</td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>in_reply_to_screen</strong></td>
+<td style="height: 47px;">nom de l’utilisateur auquel est adressé le tweet</td>
+</tr>
+<tr style="height: 47px;">
+<td style="height: 47px;"><strong>name  from_user_id_str </strong></td>
+<td style="height: 47px;">identifiant de l’utilisateur auquel est adressé le tweet</td>
+</tr>
+<tr style="height: 48.3594px;">
+<td style="height: 48.3594px;"><strong>in_reply_to_status_id_str </strong></td>
+<td style="height: 48.3594px;">identifiant du tweet cité</td>
+</tr>
+<tr style="height: 48.3594px;">
+<td style="height: 48.3594px;"><strong>source </strong></td>
+<td style="height: 48.3594px;">
+<p>adresse de l’image de profil de l’utilisateur</p>
+</td>
+</tr>
+<tr style="height: 48.3594px;">
+<td style="height: 48.3594px;"><strong>profile_image_url </strong></td>
+<td style="height: 48.3594px;">adresse de l’image de profil de l’utilisateur</td>
+</tr>
+<tr style="height: 48.3594px;">
+<td style="height: 48.3594px;"><strong>user_followers_count </strong></td>
+<td style="height: 48.3594px;">Nombre d’abonnés de l’utilisateur</td>
+</tr>
+<tr style="height: 48.3594px;">
+<td style="height: 48.3594px;"><strong>user_friends_count </strong></td>
+<td style="height: 48.3594px;">nombre de comptes suivis par l’utilisateur </td>
+</tr>
+<tr style="height: 48.3594px;">
+<td style="height: 48.3594px;"><strong>user_location </strong></td>
+<td style="height: 48.3594px;">localisation du profil de l’utilisateur</td>
+</tr>
+<tr style="height: 48.3594px;">
+<td style="height: 48.3594px;"><strong>status_url </strong></td>
+<td style="height: 48.3594px;">adresse du tweet       </td>
+</tr>
+</tbody>
+</table>
+<p> Le fichier csv récolté du mai à juin 2018 comprte 385386 enregistrements uniques (tweets, retweets réponses et mentions). </p>
+<p>Il est téléchargeable (.csv UTF8) via ce lien </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Publications </title>
