@@ -3,7 +3,7 @@
     <title>Henri Sergent</title>
     <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
     <link href="https://hls1138.github.io/site" />
-    <updated>2018-09-03T10:42:53+02:00</updated>
+    <updated>2018-09-03T11:00:42+02:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/"/>
         <id>https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/</id>
 
-        <updated>2018-09-03T10:42:41+02:00</updated>
+        <updated>2018-09-03T11:00:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hls1138.github.io/site/media/posts/4/" alt="" />
@@ -104,8 +104,9 @@
 </tr>
 </tbody>
 </table>
-<p> Le fichier csv récolté du mai à juin 2018 comprte 385386 enregistrements uniques (tweets, retweets réponses et mentions). </p>
-<p>Il est téléchargeable (.csv UTF8) via ce lien </p>
+<p> Le fichier csv récolté du mai à juin 2018 comporte 385386 enregistrements uniques (tweets, retweets réponses et mentions). </p>
+<p>Il est téléchargeable (.csv UTF8) via <a href="https://drive.google.com/file/d/1rrEsk78bfec6DhujhsIhkf469m6MwT6c/view?usp=sharing" target="_blank" rel="noopener noreferrer">ce lien</a> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
