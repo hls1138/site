@@ -3,7 +3,7 @@
     <title>Henri Sergent</title>
     <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
     <link href="https://hls1138.github.io/site" />
-    <updated>2018-09-21T07:49:07+02:00</updated>
+    <updated>2018-10-04T14:59:00+02:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
@@ -114,14 +114,14 @@
         <author>
             <name>Henri Sergent</name>
         </author>
-        <link href="https://hls1138.github.io/site/Publications/"/>
-        <id>https://hls1138.github.io/site/Publications/</id>
+        <link href="https://hls1138.github.io/site/publications/"/>
+        <id>https://hls1138.github.io/site/publications/</id>
 
-        <updated>2018-08-11T18:14:01+02:00</updated>
+        <updated>2018-10-04T14:58:44+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
-                    En CoursDesfriches-Doria; H. Sergent; F. Tran; Y. Haettich; J. Borel. (2018). What is Digital Humanities' identity in interdisciplinairy practices ? An experiment with digital tools for visualizing the francophone DH network. Digital Tools &amp; Uses Congress; 5th Edition of the International Conférence Digital Frontiers, "Digital&hellip;
+                    En CoursDESFRICHES-DORIA, Orélie, SERGENT, Henri, TRAN, Félicia, HAETTICH, Yoann et BOREL, Justine, 2018. What is Digital Humanities’ Identity in Interdisciplinary Practices?: An Experiment with Digital Tools for Visualizing the Francophone DH Network. In : Proceedings of the 2Nd International Conference on Web Studies [en ligne]. New York,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -129,11 +129,13 @@
                     <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
                 <h2>En Cours</h2>
 <ul>
-<li>Desfriches-Doria; H. Sergent; F. Tran; Y. Haettich; J. Borel. (2018). <em>What is Digital Humanities' identity in interdisciplinairy practices ? An experiment with digital tools for visualizing the francophone DH network.</em> Digital Tools &amp; Uses Congress; 5th Edition of the International Conférence Digital Frontiers, "Digital influences, from communication to propaganda"; MSH Paris Nord, Paris, 3-5 octobre 2018. (En cours d'évaluation). </li>
-</ul>
-<h2>Non publiées </h2>
-<ul>
-<li>A. Belande; K. Cheung; H.Sergent. (2018). <em>VeloViz: Representing the traffic load between Vélo'v Stations</em>. Cours visualisation interactive de données, Université Lyon 1, Master 2, 2017-2018. (<a href="https://github.com/BelandeCheungSergent/veloViz/blob/master/rendu/Rendu-final-VeloViz.pdf" title="VéloViz">pdf link</a>)</li>
+<li>
+<div class="csl-bib-body">
+<div class="csl-entry">DESFRICHES-DORIA, Orélie, SERGENT, Henri, TRAN, Félicia, HAETTICH, Yoann et BOREL, Justine, 2018. What is Digital Humanities’ Identity in Interdisciplinary Practices?: An Experiment with Digital Tools for Visualizing the Francophone DH Network. In : <i>Proceedings of the 2Nd International Conference on Web Studies</i> [en ligne]. New York, NY, USA : ACM. 2018. pp. 39–47. [Consulté le 4 octobre 2018]. WS.2 2018. ISBN 978-1-4503-6438-6. Disponible à l’adresse : <a href="http://doi.acm.org/10.1145/3240431.3240439">http://doi.acm.org/10.1145/3240431.3240439</a></div>
+<div class="csl-entry"> </div>
+</div>
+</li>
+<li>BELANDE, Amanda, CHEUNG, SERGENT Henri, 2018. <em>VeloViz: Representing the traffic load between Vélo'v Stations</em>. Cours de visualisation interactive de données, Université Lyon 1, Master 2, 2017-2018. (<a href="https://github.com/BelandeCheungSergent/veloViz/blob/master/rendu/Rendu-final-VeloViz.pdf" title="VéloViz">pdf link</a>)</li>
 </ul>
 <p> </p>
             ]]>
