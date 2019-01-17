@@ -3,7 +3,7 @@
     <title>Henri Sergent</title>
     <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
     <link href="https://hls1138.github.io/site" />
-    <updated>2019-01-17T11:01:59+01:00</updated>
+    <updated>2019-01-17T11:19:00+01:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/"/>
         <id>https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/</id>
 
-        <updated>2018-09-21T07:48:35+02:00</updated>
+        <updated>2019-01-17T11:14:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hls1138.github.io/site/media/posts/4/" alt="" />
@@ -27,7 +27,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://hls1138.github.io/site/media/posts/4/" alt="" />
-                <h2>Constitution du corpus</h2>
+                <h2 id="mcetoc_1d1dkqs580">Constitution du corpus</h2>
+<hr>
 <p>La méthodologie pour constituer un corpus de tweets exploitables à été collecter les tweets identifiés par le mot-dièse <u><a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23ParcoursSup&amp;src=tyah&amp;lang=en">#Parcoursup</a></u> à partir du 14 mai jusqu’en septembre en utilisant <u><a href="https://github.com/DocNow/twarc">Twarc </a></u>(une librairie Python dédiée à l'interaction avec Twitter) et l’<u><a href="https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets.html">API <em>Search</em></a></u> de Twittter qui permet d’accéder aux tweets et aux métadonnées liées sur la plateforme (l’API ne fournit pas l’intégralité des tweets publiés, elle est régie par des critères propres à Twitter et non connus).</p>
 <p><code>pip install twarc</code><br><code>from twarc import Twarc</code><br><code>t = Twarc (consumer_key, consumer_secret, access_token, access_token_secret)</code><br><code>twarc filter #Parcoursup AND #Parcoursup &gt; stream. jsonl</code><br><code>% utils/network.py --users tweets. jsonl tweets.gexf</code></p>
 <p><code></code><code></code></p>
@@ -117,17 +118,18 @@
         <link href="https://hls1138.github.io/site/publications/"/>
         <id>https://hls1138.github.io/site/publications/</id>
 
-        <updated>2018-10-04T14:58:44+02:00</updated>
+        <updated>2019-01-17T11:17:11+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
-                    En CoursDESFRICHES-DORIA, Orélie, SERGENT, Henri, TRAN, Félicia, HAETTICH, Yoann et BOREL, Justine, 2018. What is Digital Humanities’ Identity in Interdisciplinary Practices?: An Experiment with Digital Tools for Visualizing the Francophone DH Network. In : Proceedings of the 2Nd International Conference on Web Studies [en ligne]. New York,&hellip;
+                     2018DESFRICHES-DORIA, Orélie, SERGENT, Henri, TRAN, Félicia, HAETTICH, Yoann et BOREL, Justine, 2018. What is Digital Humanities’ Identity in Interdisciplinary Practices?: An Experiment with Digital Tools for Visualizing the Francophone DH Network. In : Proceedings of the 2Nd International Conference on Web Studies [en ligne]. New York, NY,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
-                <h2>En Cours</h2>
+                <h2 id="mcetoc_1d1dksoas0"> </h2>
+<h2 id="mcetoc_1d1dkukro1">2018</h2>
 <ul>
 <li>
 <div class="csl-bib-body">
