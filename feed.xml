@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Henri Sergent</title>
-    <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
-    <link href="https://hls1138.github.io/site" />
-    <updated>2019-01-17T10:35:49+01:00</updated>
+    <link href="https://henrisergent.fr/feed.xml" rel="self" />
+    <link href="https://henrisergent.fr" />
+    <updated>2019-01-17T10:36:58+01:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
-    <id>https://hls1138.github.io/site</id>
+    <id>https://henrisergent.fr</id>
 
     <entry>
         <title>Cartographie des controverses : Parcoursup </title>
         <author>
             <name>Henri Sergent</name>
         </author>
-        <link href="https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/"/>
-        <id>https://hls1138.github.io/site/cartographie-des-controverses-parcoursup/</id>
+        <link href="https://henrisergent.fr/cartographie-des-controverses-parcoursup/"/>
+        <id>https://henrisergent.fr/cartographie-des-controverses-parcoursup/</id>
 
         <updated>2018-09-21T07:48:35+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hls1138.github.io/site/media/posts/4/" alt="" />
+                        <img src="https://henrisergent.fr/media/posts/4/" alt="" />
                     Constitution du corpusLa méthodologie pour constituer un corpus de tweets exploitables à été collecter les tweets identifiés par le mot-dièse #Parcoursup à partir du 14 mai jusqu’en septembre en utilisant Twarc (une librairie Python dédiée à l'interaction avec Twitter) et l’API Search de Twittter qui&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://hls1138.github.io/site/media/posts/4/" alt="" />
+                    <img src="https://henrisergent.fr/media/posts/4/" alt="" />
                 <h2>Constitution du corpus</h2>
 <p>La méthodologie pour constituer un corpus de tweets exploitables à été collecter les tweets identifiés par le mot-dièse <u><a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23ParcoursSup&amp;src=tyah&amp;lang=en">#Parcoursup</a></u> à partir du 14 mai jusqu’en septembre en utilisant <u><a href="https://github.com/DocNow/twarc">Twarc </a></u>(une librairie Python dédiée à l'interaction avec Twitter) et l’<u><a href="https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets.html">API <em>Search</em></a></u> de Twittter qui permet d’accéder aux tweets et aux métadonnées liées sur la plateforme (l’API ne fournit pas l’intégralité des tweets publiés, elle est régie par des critères propres à Twitter et non connus).</p>
 <p><code>pip install twarc</code><br><code>from twarc import Twarc</code><br><code>t = Twarc (consumer_key, consumer_secret, access_token, access_token_secret)</code><br><code>twarc filter #Parcoursup AND #Parcoursup &gt; stream. jsonl</code><br><code>% utils/network.py --users tweets. jsonl tweets.gexf</code></p>
@@ -114,19 +114,19 @@
         <author>
             <name>Henri Sergent</name>
         </author>
-        <link href="https://hls1138.github.io/site/publications/"/>
-        <id>https://hls1138.github.io/site/publications/</id>
+        <link href="https://henrisergent.fr/publications/"/>
+        <id>https://henrisergent.fr/publications/</id>
 
         <updated>2018-10-04T14:58:44+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
+                        <img src="https://henrisergent.fr/media/posts/3/" alt="" />
                     En CoursDESFRICHES-DORIA, Orélie, SERGENT, Henri, TRAN, Félicia, HAETTICH, Yoann et BOREL, Justine, 2018. What is Digital Humanities’ Identity in Interdisciplinary Practices?: An Experiment with Digital Tools for Visualizing the Francophone DH Network. In : Proceedings of the 2Nd International Conference on Web Studies [en ligne]. New York,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://hls1138.github.io/site/media/posts/3/" alt="" />
+                    <img src="https://henrisergent.fr/media/posts/3/" alt="" />
                 <h2>En Cours</h2>
 <ul>
 <li>
@@ -146,19 +146,19 @@
         <author>
             <name>Henri Sergent</name>
         </author>
-        <link href="https://hls1138.github.io/site/resume-cv/"/>
-        <id>https://hls1138.github.io/site/resume-cv/</id>
+        <link href="https://henrisergent.fr/resume-cv/"/>
+        <id>https://henrisergent.fr/resume-cv/</id>
 
         <updated>2018-09-13T15:05:02+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hls1138.github.io/site/media/posts/2/" alt="" />
+                        <img src="https://henrisergent.fr/media/posts/2/" alt="" />
                      Formation2017-2018 : Master 2 Architecture de l'Information, + Master 2 Humanités Numériques, École Normale Supérieure de Lyon. (en cours) 2016-2017 : Master 1 Architecture de l'Information, École Normale Supérieure de Lyon.2015-2016 : LP Métiers du Multimédia et d’Internet. Conception, rédaction et réalisation web, Université Paris 13.2014-2015&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://hls1138.github.io/site/media/posts/2/" alt="" />
+                    <img src="https://henrisergent.fr/media/posts/2/" alt="" />
                 <h2> <strong>Formation</strong></h2>
 <ul>
 <li><strong>2017-2018</strong> : Master 2 Architecture de l'Information, + Master 2 Humanités Numériques, École Normale Supérieure de Lyon. (en cours)</li>
@@ -226,19 +226,19 @@
         <author>
             <name>Henri Sergent</name>
         </author>
-        <link href="https://hls1138.github.io/site/about-a-propos/"/>
-        <id>https://hls1138.github.io/site/about-a-propos/</id>
+        <link href="https://henrisergent.fr/about-a-propos/"/>
+        <id>https://henrisergent.fr/about-a-propos/</id>
 
         <updated>2018-09-13T15:04:42+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hls1138.github.io/site/media/posts/1/" alt="" />
+                        <img src="https://henrisergent.fr/media/posts/1/" alt="" />
                     Hello, I'm Henri Sergent and I'm currently an Information Architecture and Digital Humanities student at ENS Lyon. I'm interested in User eXperience design, information science, datavisualisation and semantic web technologies applied to research in social sciences. I think organizing information and providing effective acces to what&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://hls1138.github.io/site/media/posts/1/" alt="" />
+                    <img src="https://henrisergent.fr/media/posts/1/" alt="" />
                 <p>Hello, I'm Henri Sergent and I'm currently an <strong>Information Architecture</strong> and <strong>Digital Humanities </strong>student at ENS Lyon. I'm interested in User eXperience design, information science, datavisualisation and semantic web technologies applied to research in social sciences. I think organizing information and providing effective acces to what matters to the users is necessary to avoid information overflow in our data era. Questionning current online designs and providing guidiance to design useful shared representation is my goal. </p>
 <p><span style="font-weight: 400;">During the course of my degree in humanities and political science back in 2012, I acquired an understanding of the capital role played by digital information and data management in our society. My subsequent studies focused on <a href="http://www.infonumbordeaux.fr/">digital information in organisations at IUT Montaigne</a> and allowed me to deepen my knowledge of information management and web tools. The following year, I did <a href="http://www.iut-bobigny.univ-paris13.fr/formations/metiers-du-multimedia-et-de-l-internet.html">Multimedia &amp; Internet bachelor courses at Paris 13 University</a> in the field of multimedia and the Internet while being a web apprentice in <a href="https://invisu.inha.fr/fr/index.html" target="_blank" rel="noopener noreferrer">CNRS InVisu research unit</a>. This experience led me to pursue studies in <a href="http://archinfo.universite-lyon.fr/bienvenue-sur-le-site-du-master-architecture-de-l-information-312469.kjsp">Information architecture in Lyon</a> to improve my skills in content organisation and web technologies and acquire new ones in user research and experience, data mining and data visualisation to learn how to communicate meaningful insights in a relevant way. The project-based curriculum of my master has allowed to participate in different design projects, work with different groups and learn different methods to carry out user research. </span></p>
 <p>I'm currently working at CNRS as <em>ingénieur d'études</em> in the ANR-funded <a href="https://hyperotlet.hypotheses.org/">project HyperOtlet</a>. </p>
