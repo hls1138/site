@@ -3,12 +3,29 @@
     <title>Henri Sergent</title>
     <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
     <link href="https://hls1138.github.io/site" />
-    <updated>2019-01-17T11:19:00+01:00</updated>
+    <updated>2019-01-24T10:10:01+01:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
     <id>https://hls1138.github.io/site</id>
 
+    <entry>
+        <title>maquette (test)</title>
+        <author>
+            <name>Henri Sergent</name>
+        </author>
+        <link href="https://hls1138.github.io/site/maquette-test/"/>
+        <id>https://hls1138.github.io/site/maquette-test/</id>
+
+        <updated>2019-01-24T10:09:46+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hls1138.github.io/site/media/posts/5/" alt="" />
+                <iframe width="800" height="450" style="border: none;" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2FN3JuPZ75FmCmtbyWt0eHTVQx%2FHyperOtlet%3Fnode-id%3D0%253A1" allowfullscreen="allowfullscreen"></iframe>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cartographie des controverses : Parcoursup </title>
         <author>
