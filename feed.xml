@@ -3,12 +3,41 @@
     <title>Henri Sergent</title>
     <link href="https://hls1138.github.io/site/feed.xml" rel="self" />
     <link href="https://hls1138.github.io/site" />
-    <updated>2019-03-18T18:32:37+01:00</updated>
+    <updated>2019-03-26T10:57:18+01:00</updated>
     <author>
         <name>Henri Sergent</name>
     </author>
     <id>https://hls1138.github.io/site</id>
 
+    <entry>
+        <title>Maquettage : mon outil favori </title>
+        <author>
+            <name>Henri Sergent</name>
+        </author>
+        <link href="https://hls1138.github.io/site/maquette-test/"/>
+        <id>https://hls1138.github.io/site/maquette-test/</id>
+
+        <updated>2019-03-26T10:57:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ci dessous figure la maquette et le parcours de navigation réalisés avec l'outil Figma dans le cadre du projet de recherche HyperOtlet. Pour moi, l'avantage de Figma par rapport à ses concurrents comme Sketch ou Axure réside dans : 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ci dessous figure la maquette et le parcours de navigation réalisés avec l'outil Figma dans le cadre du <a href="https://hyperotlet.hypotheses.org/">projet de recherche HyperOtlet</a>. </p>
+<p>Pour moi, l'avantage de Figma par rapport à ses concurrents comme Sketch ou Axure réside dans :</p>
+<ul>
+<li>Ses fonctionalités de collaboration (la maquette est facile à partager avec un simple lien, visible et commentable sans avoir à installer quoi que ce soit) celà s'avère précieux, notamment dans des équipes interdisciplinaires (là où l' architecture de l'information et la conception de l'expérience utilisateur sont confiées à une ou quelques personnes seulement, qui doivent construire une représentation partagée avec les commanditaires, les développeurs, les graphistes...).</li>
+<li>La portabilité : un simple navigateur à jour est requis (j'utilise cependant la version de bureau), et il n'est pas nécessaire de passer par une application tierce (coucou Sketch+Invision). </li>
+<li>La création d'un système de conception (<em>design system)</em> est grandement facilitée par le partage de bibliothèques de composants et leur réutilisation à travers plusieurs maquettes. Le système d'onglets similaire à celui n'un navigateur web est un ravissement à utiliser (un pour la maquette en cours proprement dite, un pour les composants, un pour la démo).</li>
+<li>Un seul outil pour gérer l'idéation, le prototypage basse fidélité/ haute fidélité, la démonstration, le partage et les retours des parties prenantes. </li>
+</ul>
+<p> </p>
+<p><iframe width="800" height="450" style="border: none;" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2FN3JuPZ75FmCmtbyWt0eHTVQx%2FHyperOtlet%3Fnode-id%3D0%253A1" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cartographie des controverses : Parcoursup </title>
         <author>
